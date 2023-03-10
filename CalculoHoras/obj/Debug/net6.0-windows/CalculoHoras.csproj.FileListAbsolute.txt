@@ -1,0 +1,17 @@
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\bin\Debug\net6.0-windows\CalculoHoras.exe
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\bin\Debug\net6.0-windows\CalculoHoras.deps.json
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\bin\Debug\net6.0-windows\CalculoHoras.runtimeconfig.json
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\bin\Debug\net6.0-windows\CalculoHoras.dll
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\bin\Debug\net6.0-windows\CalculoHoras.pdb
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.CalculoHoraForm.resources
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.csproj.GenerateResource.cache
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.dll
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\refint\CalculoHoras.dll
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.pdb
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\CalculoHoras.genruntimeconfig.cache
+C:\Users\Ramon\Documents\Projetos C#\CalculoHoras\CalculoHoras\obj\Debug\net6.0-windows\ref\CalculoHoras.dll
